@@ -52,7 +52,8 @@ Specifically made to optimize cad designing experience and improve player contro
 | Joystick module | 1 | Directional input |
 | Display module | 1 | Visual feedback |
 | PCB | 1 | Main circuit board |
-| Resistors | As required | Input circuitry |
+| Resistors | 17 | Input circuitry |
+| Diodes | 17 | Input circuitry |
 | USB cable | 1 | Power and USB connection |
 | 3D-printed enclosure | 1 set | Protects and supports the electronics |
 | Keycaps | 12 | Key tops |
