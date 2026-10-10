@@ -23,28 +23,28 @@ The project includes a custom PCB and schematic, a 3D-designed enclosure, and fi
 
 ### 1. Complete Macropad
 
-![Dialpad overview](Photos/dialpad.png)
+![Dialpad overview](photos/dialpad.png)
 
 *Overall design of the Dialpad macropad.*
 
 ### 2. Schematic
 
-![Dialpad schematic](Photos/schematic_photo.webp)
+![Dialpad schematic](photos/schematic_photo.webp)
 
 *Electrical schematic for the macropad.*
 
 ### 3. PCB Layout
 
 <!-- Add a screenshot of the PCB layout exported from KiCad. -->
-![Dialpad PCB layout](Photos/Kicad_layout_photo.png)
+![Dialpad PCB layout](photos/Kicad_layout_photo.png)
 
 *Custom PCB layout, including the microcontroller and input circuitry.*
 
 ### 4. Case Design and Assembly
 
 <!-- Add a Fusion 360 screenshot showing the assembled case and how its parts fit together. -->
-![Dialpad case assembly](Photos/case.png)
-![Dialpad case fitting](Photos/fitting.png)
+![Dialpad case assembly](photos/case.png)
+![Dialpad case fitting](photos/fitting.png)
 
 *CAD assembly showing the enclosure, PCB placement, and how the case parts fit together.*
 
